@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**favouritefavil/favouritefavil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Chegwe 👋
 
-Here are some ideas to get you started:
+## 📊 Data Analyst | SQL Enthusiast | Turning Data into Actionable Insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate data analyst specializing in customer analytics, business intelligence, and data-driven decision making. I transform complex datasets into clear insights that drive business growth.
+
+### 🛠️ Technical Skills
+
+**Languages & Databases:**
+- 💾 SQL (PostgreSQL, MySQL, SQL Server)
+
+**Visualization & BI Tools:**
+- 📊 Power BI
+- 📈 Tableau
+- 📉 Excel (Advanced: Pivot Tables, Power Query, DAX)
+
+**Analytics & Statistics:**
+- 📐 Statistical Analysis
+- 🔮 Predictive Modeling
+- 📊 A/B Testing
+- 🎯 Customer Segmentation
+- 📈 Cohort Analysis
+
+**Tools & Platforms:**
+- Git & GitHub
+
+### 📈 Featured Projects
+
+#### 🏦 [Bank Customer Churn Analysis](https://github.com/favouritefavil/bank-customer-churn-analysis)
+Comprehensive analysis of 2M bank customers identifying churn patterns and retention strategies
+- **Tech Stack:** SQL, Power BI, PostgreSQL
+- **Impact:** Identified ₦29.2B in potential deposit protection
+- **Key Insight:** Product depth reduces churn by 80%
+
+
+
+### 📫 Let's Connect!
+- 💼 LinkedIn:www.linkedin.com/in/favour-chegwe
+- 📧 Email: favourchegwec@gmail.com
+- 🐦 Twitter: Chegwe Favour(https://twitter.com/favviil)
+
