@@ -27,7 +27,7 @@ I'm a passionate data analyst specializing in customer analytics, business intel
 
 ### 📈 Featured Projects
 
-#### 🏦 [Bank Customer Churn Analysis](https://github.com/favouritefavil/bank-customer-churn-analysis)
+#### 🏦 [Bank Customer Churn Analysis](https://github.com/favouritefavil/Bank-Customer-Churn-Analysis-Risk-Assessment)
 Comprehensive analysis of 2M bank customers identifying churn patterns and retention strategies
 - **Tech Stack:** SQL, Power BI, PostgreSQL
 - **Impact:** Identified ₦29.2B in potential deposit protection
