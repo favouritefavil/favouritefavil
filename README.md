@@ -40,6 +40,14 @@ Comprehensive analysis of 1,470 employees identifying attrition drivers and data
 * Impact: Projected $4.5M-$6.5M annual savings with 225-325% ROI
 * Key Insight: Overtime increases attrition risk by 3x (30.5% vs 10.4%)
 
+* 💳 [Credit Risk & Loan Performance Analysis]((https://github.com/favouritefavil/credit-risk-loan-analysis))
+Excel-based analysis of 124,549 loans revealing $6.3B default exposure and strategic solutions
+* Tech Stack: Excel, Pivot Tables, Advanced Formulas, Dashboard Design
+* Impact: Strategic recommendations to prevent $1.0B-$1.5B in losses
+* Key Insight: Small loans (<$100K) paradoxically show 28% default vs 14% for large loans
+  
+```
+
 
 ### 📫 Let's Connect!
 - 💼 LinkedIn:www.linkedin.com/in/favour-chegwe
