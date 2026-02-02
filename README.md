@@ -33,6 +33,11 @@ Comprehensive analysis of 2M bank customers identifying churn patterns and reten
 - **Impact:** Identified ₦29.2B in potential deposit protection
 - **Key Insight:** Product depth reduces churn by 80%
 
+📊 [HR Employee Attrition Analysis](https://github.com/favouritefavil/hr-attrition-analysis)
+Comprehensive analysis of 1,470 employees identifying attrition drivers and data-driven retention strategies
+* Tech Stack: SQL (MySQL), Power BI, Statistical Analysis
+* Impact: Projected $4.5M-$6.5M annual savings with 225-325% ROI
+* Key Insight: Overtime increases attrition risk by 3x (30.5% vs 10.4%)
 
 
 ### 📫 Let's Connect!
