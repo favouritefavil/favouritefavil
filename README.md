@@ -48,7 +48,6 @@ Excel-based analysis of 124,549 loans revealing $6.3B default exposure and strat
 * Impact: Strategic recommendations to prevent $1.0B-$1.5B in losses
 * Key Insight: Small loans (<$100K) paradoxically show 28% default vs 14% for large loans
   
-```
 
 
 ### 📫 Let's Connect!
