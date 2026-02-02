@@ -34,6 +34,7 @@ Comprehensive analysis of 2M bank customers identifying churn patterns and reten
 - **Key Insight:** Product depth reduces churn by 80%
 
 📊 [HR Employee Attrition Analysis](https://github.com/favouritefavil/hr-attrition-analysis)
+
 Comprehensive analysis of 1,470 employees identifying attrition drivers and data-driven retention strategies
 * Tech Stack: SQL (MySQL), Power BI, Statistical Analysis
 * Impact: Projected $4.5M-$6.5M annual savings with 225-325% ROI
