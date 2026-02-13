@@ -1,7 +1,7 @@
 
 # Hi there, I'm Chegwe 👋
 
-## 📊 Data Analyst | SQL Enthusiast | Turning Data into Actionable Insights
+## 📊 Financial Analyst | Credit Risk & Customer Analytics | Data Analyst | SQL Enthusiast | Turning Data into Actionable Insights
 
 I'm a passionate data analyst specializing in customer analytics, business intelligence, and data-driven decision making. I transform complex datasets into clear insights that drive business growth.
 
