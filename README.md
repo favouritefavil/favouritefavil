@@ -27,6 +27,20 @@ I'm a passionate data analyst specializing in customer analytics, business intel
 
 ### 📈 Featured Projects
 
+
+
+
+#### 🏦 [Microfinace Portfolio Health](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis)
+Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to identify risk patterns, quantify portfolio healthh, 
+and provide data-driven strategic recommendations.
+- **Tech Stack:** SQL, Power BI, PostgreSQL
+- **Impact:** Strategic reallocation and 
+operational improvements to reduce defaults to 11.8% and increase annual profit by ₦8-10M.
+- **Key Insight:**  The ₦271.6M loan portfolio demonstrates strong collection performance (93.5%) but 
+faces elevated default risk (14.6%) driven by geographic concentration and customer selection. 
+Analysis reveals clear patterns: repeat borrowers show 4.2x lower default rates than first-time
+customers, and Southern regions outperform Northern regions 2:1.
+
 #### 🏦 [Bank Customer Churn Analysis](https://github.com/favouritefavil/Bank-Customer-Churn-Analysis-Risk-Assessment-)
 Comprehensive analysis of 2M bank customers identifying churn patterns and retention strategies
 - **Tech Stack:** SQL, Power BI, PostgreSQL
