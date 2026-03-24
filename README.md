@@ -27,25 +27,46 @@ I'm a passionate data analyst specializing in customer analytics, business intel
 
 ### 📈 Featured Projects
 
+[Loan Portfolio Risk Monitoring & Credit Risk Analysis](https://github.com/favouritefavil/Loan-Portfolio-Risk-Monitoring-Credit-Risk-Analysis)
+
+This project delivers a complete, end-to-end credit risk analysis of a consumer lending portfolio using the LendingClub dataset. It simulates the work of a **credit risk analyst responsible for portfolio monitoring and risk reporting** covering data preparation, SQL-based segmentation, loss exposure analysis, and interactive dashboard visualisation.
+
+**The project was built using**
+
+- **PostgreSQL** for data engineering and analysis
+- **Power BI** for dashboard development and portfolio monitoring.
+
+**🚨 Key Findings**
+- 1 in 5 loans defaulted (≈20% default rate)
+- Total portfolio exposure: **$19B**
+- Estimated loss exposure: **$4B**
+- **Grade C is the largest loss driver ($1.3B)** not the highest-risk grade
+- **Debt consolidation accounts for 58% of loans and $2.7B in losses**
+> This project analyses where risk actually comes from, not just who defaults, but where the money is lost.
 
 
 
-#### 🏦 [Microfinace Portfolio Health](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis)
+
+🏦 [Microfinace Portfolio Health](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis)
+
 Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to identify risk patterns, quantify portfolio healthh, 
 and provide data-driven strategic recommendations.
+
 - **Tech Stack:** SQL, Power BI, PostgreSQL
 - **Impact:** Strategic reallocation and 
 operational improvements to reduce defaults to 11.8% and increase annual profit by ₦8-10M.
-- **Key Insight:**  The ₦271.6M loan portfolio demonstrates strong collection performance (93.5%) but 
+- **Key Insight:**
+The ₦271.6M loan portfolio demonstrates strong collection performance (93.5%) but 
 faces elevated default risk (14.6%) driven by geographic concentration and customer selection. 
 Analysis reveals clear patterns: repeat borrowers show 4.2x lower default rates than first-time
 customers, and Southern regions outperform Northern regions 2:1.
 
-#### 🏦 [Bank Customer Churn Analysis](https://github.com/favouritefavil/Bank-Customer-Churn-Analysis-Risk-Assessment-)
+🏦 [Bank Customer Churn Analysis](https://github.com/favouritefavil/Bank-Customer-Churn-Analysis-Risk-Assessment-)
+
 Comprehensive analysis of 2M bank customers identifying churn patterns and retention strategies
 - **Tech Stack:** SQL, Power BI, PostgreSQL
 - **Impact:** Identified ₦29.2B in potential deposit protection
-- **Key Insight:** Product depth reduces churn by 80%
+- Key Insight: Product depth reduces churn by 80%
 
 📊 [HR Employee Attrition Analysis](https://github.com/favouritefavil/hr-attrition-analysis)
 
