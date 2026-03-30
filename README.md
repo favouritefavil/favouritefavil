@@ -47,19 +47,26 @@ This project delivers a complete, end-to-end credit risk analysis of a consumer 
 
 
 
-🏦 [Microfinace Portfolio Health](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis)
+🏦 [Mirofinance Portfolio RIsk Analsysis](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis)
 
-Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to identify risk patterns, quantify portfolio healthh, 
-and provide data-driven strategic recommendations.
+This project delivers a complete credit risk and portfolio monitoring analysis for a Nigerian microfinance bank. It simulates the work of a credit risk analyst responsible for assessing portfolio health, identifying risk drivers, and providing data-backed strategic recommendations.
 
-- **Tech Stack:** SQL, Power BI, PostgreSQL
-- **Impact:** Strategic reallocation and 
-operational improvements to reduce defaults to 11.8% and increase annual profit by ₦8-10M.
-- **Key Insight:**
-The ₦271.6M loan portfolio demonstrates strong collection performance (93.5%) but 
-faces elevated default risk (14.6%) driven by geographic concentration and customer selection. 
-Analysis reveals clear patterns: repeat borrowers show 4.2x lower default rates than first-time
-customers, and Southern regions outperform Northern regions 2:1.
+**The project was built using**
+
+-  **PostgreSQL**
+-  **Power BI**
+  
+  **🚨 Key Findings**
+- 14.6% of loans defaulted: above the bank's 10% internal target
+- Total portfolio: ₦271.6M across 3,922 loans in 7 regions
+- North East region defaults at 23.8%: nearly double the South South at 12.2%
+- Repeat borrowers (Cycle 5) default 4.2× less than first-time borrowers
+- One loan officer is managing 765% of their assigned capacity: a structural risk hidden inside operational data
+
+> This project analyses where credit risk is actually concentrated in a Nigerian microfinance portfolio and what the bank should do about it.
+
+**Impact:** 
+Strategic reallocation and operational improvements to reduce defaults to 11.8% and increase annual profit by ₦8-10M.
 
 🏦 [Bank Customer Churn Analysis](https://github.com/favouritefavil/Bank-Customer-Churn-Analysis-Risk-Assessment-)
 
