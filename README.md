@@ -27,6 +27,38 @@ I'm a passionate data analyst specializing in customer analytics, business intel
 
 ### 📈 Featured Projects
 
+[Credit Default Risk Modeling Using German Credit Data](https://github.com/favouritefavil/Credit-Default-Risk-Modeling-Using-German-Credit-Data)
+
+This project builds a structured, data-driven credit risk framework using the German Credit Dataset analyzing 1,000 loan applicants across 20 borrower and loan characteristics to identify the key drivers of default, profile the highest-risk borrower segments, and develop a cost-sensitive predictive model that supports better lending decisions.
+
+> **Portfolio Baseline:** 30% of borrowers in this dataset defaulted.  
+> **Project Goal:** Identify who they are before the loan is approved.
+
+## Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| **PostgreSQL** | Data import, validation, cleaning, EDA, multi-variable analysis |
+| **Python** | Feature engineering, model training, evaluation, visualization |
+| **Pandas** | Data manipulation and preparation |
+| **Scikit-learn** | Logistic Regression, train/test split, StandardScaler, ROC-AUC |
+| **Matplotlib** | Threshold cost curve, feature coefficient chart, ROC curve |
+| **Seaborn** | Confusion matrix heatmap, default distribution chart |
+| **Jupyter Notebook** | Modeling workflow and documentation |
+
+## Key Findings Summary
+
+| Risk Factor | High-Risk Segment | Default Rate | Portfolio Baseline |
+|---|---|---|---|
+| Credit History | No prior credit — thin file (A30) | 62.50% | 30% |
+| Loan Duration | Long-term > 36 months | 51.72% | 30% |
+| Loan Amount | High value ≥ 5,000 DM | 41.49% | 30% |
+| Employment | Employed < 1 year (A72) | 40.70% | 30% |
+| Savings | Very low savings < 100 DM (A61) | 35.99% | 30% |
+| **Compound Risk** | **Thin-file + Low Savings (A31 × A61)** | **72.00%** | **30%** |
+
+
+
 [Loan Portfolio Risk Monitoring & Credit Risk Analysis](https://github.com/favouritefavil/Loan-Portfolio-Risk-Monitoring-Credit-Risk-Analysis)
 
 This project delivers a complete, end-to-end credit risk analysis of a consumer lending portfolio using the LendingClub dataset. It simulates the work of a **credit risk analyst responsible for portfolio monitoring and risk reporting** covering data preparation, SQL-based segmentation, loss exposure analysis, and interactive dashboard visualisation.
@@ -49,7 +81,7 @@ This project delivers a complete, end-to-end credit risk analysis of a consumer 
 
 🏦 [Mirofinance Portfolio RIsk Analsysis](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis)
 
-This project delivers a complete credit risk and portfolio monitoring analysis for a Nigerian microfinance bank. It simulates the work of a credit risk analyst responsible for assessing portfolio health, identifying risk drivers, and providing data-backed strategic recommendations.
+This project delivers a complete credit risk and portfolio monitoring analysis for a microfinance bank. It simulates the work of a credit risk analyst responsible for assessing portfolio health, identifying risk drivers, and providing data-backed strategic recommendations.
 
 **The project was built using**
 
@@ -63,7 +95,7 @@ This project delivers a complete credit risk and portfolio monitoring analysis f
 - Repeat borrowers (Cycle 5) default 4.2× less than first-time borrowers
 - One loan officer is managing 765% of their assigned capacity: a structural risk hidden inside operational data
 
-> This project analyses where credit risk is actually concentrated in a Nigerian microfinance portfolio and what the bank should do about it.
+> This project analyses where credit risk is actually concentrated in a microfinance portfolio and what the bank should do about it.
 
 **Impact:** 
 Strategic reallocation and operational improvements to reduce defaults to 11.8% and increase annual profit by ₦8-10M.
