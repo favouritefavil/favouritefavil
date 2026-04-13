@@ -1,7 +1,7 @@
 
 # Hi there, I'm Chegwe 👋
 
-## 📊 Financial Analyst | Credit Risk & Customer Analytics | Data Analyst | SQL Enthusiast | Turning Data into Actionable Insights
+## 📊 Financial Analyst | Credit Risk & Customer Analytics | Data Analyst | SQL & Python | Turning Data into Actionable Insights
 
 I'm a passionate data analyst specializing in customer analytics, business intelligence, and data-driven decision making. I transform complex datasets into clear insights that drive business growth.
 
@@ -9,6 +9,7 @@ I'm a passionate data analyst specializing in customer analytics, business intel
 
 **Languages & Databases:**
 - 💾 SQL (PostgreSQL, MySQL, SQL Server)
+- 🐍 Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
 **Visualization & BI Tools:**
 - 📊 Power BI
@@ -21,42 +22,34 @@ I'm a passionate data analyst specializing in customer analytics, business intel
 - 📊 A/B Testing
 - 🎯 Customer Segmentation
 - 📈 Cohort Analysis
+- 🤖 Machine Learning (Logistic Regression, Classification)
+- 💳 Credit Risk Modeling (PD Modeling, Threshold Optimization, Cost-Sensitive Evaluation)
 
 **Tools & Platforms:**
 - Git & GitHub
+- Jupyter Notebook
 
 ### 📈 Featured Projects
 
 [Credit Default Risk Modeling Using German Credit Data](https://github.com/favouritefavil/Credit-Default-Risk-Modeling-Using-German-Credit-Data)
 
-This project builds a structured, data-driven credit risk framework using the German Credit Dataset analyzing 1,000 loan applicants across 20 borrower and loan characteristics to identify the key drivers of default, profile the highest-risk borrower segments, and develop a cost-sensitive predictive model that supports better lending decisions.
+This project delivers a complete, end-to-end credit default risk analysis of 1,000 loan applicants using the German Credit Dataset. It simulates the work of a credit risk analyst responsible for borrower risk assessment, default prediction, and lending policy design covering data validation, SQL-based risk segmentation, multi-variable borrower profiling, and predictive modeling.
 
-> **Portfolio Baseline:** 30% of borrowers in this dataset defaulted.  
-> **Project Goal:** Identify who they are before the loan is approved.
+**The project was built using**
 
-## Tools & Technologies
+- **PostgreSQL** for data engineering, EDA, and multi-variable risk analysis
+- **Python** (Scikit-learn, Pandas, Matplotlib, Seaborn) for predictive modeling, threshold optimization, and visualization
 
-| Tool | Purpose |
-|---|---|
-| **PostgreSQL** | Data import, validation, cleaning, EDA, multi-variable analysis |
-| **Python** | Feature engineering, model training, evaluation, visualization |
-| **Pandas** | Data manipulation and preparation |
-| **Scikit-learn** | Logistic Regression, train/test split, StandardScaler, ROC-AUC |
-| **Matplotlib** | Threshold cost curve, feature coefficient chart, ROC curve |
-| **Seaborn** | Confusion matrix heatmap, default distribution chart |
-| **Jupyter Notebook** | Modeling workflow and documentation |
+**🚨 Key Findings**
 
-## Key Findings Summary
+- 1 in 3 borrowers defaulted (30% baseline default rate)
+- Thin-file borrowers with very low savings defaulted at 72% more than double the portfolio average
+- Even borrowers employed for 7+ years defaulted at 55.6% on long-term loans
+- Cost-sensitive threshold optimization reduced missed defaults by 55% (20 → 9)
+- Installment rate not loan amount is the strongest predictor of default
 
-| Risk Factor | High-Risk Segment | Default Rate | Portfolio Baseline |
-|---|---|---|---|
-| Credit History | No prior credit — thin file (A30) | 62.50% | 30% |
-| Loan Duration | Long-term > 36 months | 51.72% | 30% |
-| Loan Amount | High value ≥ 5,000 DM | 41.49% | 30% |
-| Employment | Employed < 1 year (A72) | 40.70% | 30% |
-| Savings | Very low savings < 100 DM (A61) | 35.99% | 30% |
-| **Compound Risk** | **Thin-file + Low Savings (A31 × A61)** | **72.00%** | **30%** |
 
+> This project analyses where credit risk actually concentrates not just who defaults, but which borrower combinations are most dangerous, and what it costs a lender to miss them.
 
 
 [Loan Portfolio Risk Monitoring & Credit Risk Analysis](https://github.com/favouritefavil/Loan-Portfolio-Risk-Monitoring-Credit-Risk-Analysis)
