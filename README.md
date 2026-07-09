@@ -93,42 +93,6 @@ This project delivers a complete credit risk and portfolio monitoring analysis f
 **Impact:** 
 Strategic reallocation and operational improvements to reduce defaults to 11.8% and increase annual profit by ₦8-10M.
 
-🏦 [Bank Customer Churn Analysis & Portfolio Risk Analysis](https://github.com/favouritefavil/Bank-Customer-Churn-Analysis-Risk-Assessment-)
-
-This project delivers a complete customer churn and portfolio risk analysis for a Nigerian commercial bank. It simulates the work of a customer analytics or retail banking analyst responsible for identifying at-risk customers, segmenting the portfolio by value and engagement, and recommending retention strategies before deposits are lost.
-
-**The project was built using**
-
-- **PostgreSQL** for data analysis
-- **Power BI**  for dashboard development and visualisation.
-
-**🚨 Key Findings**
-- 13% of customers churned within 90 days threatening ₦39.3bn in deposits annually
-- Total portfolio: 2 million customers | ₦302bn in balances
-- Single-product customers churn at 20% 5× higher than customers with 4+ products
-- 3,260 high-value customers are currently at risk representing ₦6.5bn in deposits
-- Low-engagement customers churn at 21% 2.6× higher than highly engaged customers
-> This project identifies who is most likely to leave, why they leave, and what the bank should do to keep them before the money walks out the door.
-
-**Impact:** 
-- Identified ₦29.2B in potential deposit protection
-
-
-📊 [HR Employee Attrition Analysis](https://github.com/favouritefavil/hr-attrition-analysis)
-
-Comprehensive analysis of 1,470 employees identifying attrition drivers and data-driven retention strategies
-* Tech Stack: SQL (MySQL), Power BI, Statistical Analysis
-* Impact: Projected $4.5M-$6.5M annual savings with 225-325% ROI
-* Key Insight: Overtime increases attrition risk by 3x (30.5% vs 10.4%)
-  
-
-💳 [Credit Risk & Loan Performance Analysis](https://github.com/favouritefavil/Credit-Risk-Loan-performance-Analysis)
-
-Excel-based analysis of 124,549 loans revealing $6.3B default exposure and strategic solutions
-* Tech Stack: Excel, Pivot Tables, Advanced Formulas, Dashboard Design
-* Impact: Strategic recommendations to prevent $1.0B-$1.5B in losses
-* Key Insight: Small loans (<$100K) paradoxically show 28% default vs 14% for large loans
-  
 
 
 ### 📫 Let's Connect!
